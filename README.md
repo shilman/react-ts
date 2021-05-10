@@ -10,7 +10,7 @@ Modifying the `.storybook/main.js` to use `webpack4` and the types for `button.t
 
 Modifying the `.storybook/main.js` to use `webpack5` and the types for `button.tsx` will disappear due to https://github.com/hipstersmoothie/react-docgen-typescript-plugin/issues/30
 
-### Docgen w/ Webpack5 and Experimental Docgen WP support
+### Docgen w/ Webpack5 and Experimental Docgen WP5 support
 
 First build https://github.com/hipstersmoothie/react-docgen-typescript-plugin/pull/33
 
